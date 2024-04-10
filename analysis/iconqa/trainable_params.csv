@@ -1,0 +1,17 @@
+,r = 1,r = 2,r = 4,r = 8
+"LLM LoRA (ffn, FlanT5-XL)",1032192,2064384,4128768,8257536
+"LLM LoRA (attn, FlanT5-XL)",589824,1179648,2359296,4718592
+"LLM LoRA (all, FlanT5-XL)",1622016,3244032,6488064,12976128
+"Q-Former LoRA (ffn, FlanT5-XL)",184320,368640,737280,1474560
+"Q-Former LoRA (self-attn, FlanT5-XL)",36864,73728,147456,294912
+"Q-Former LoRA (cross-attn, FlanT5-XL)",44544,89088,178176,356352
+"Q-Former LoRA (all, FlanT5-XL)",265728,531456,1062912,2125824
+"Q-Former and LLM LoRA (all, FlanT5-XL)",1887744,3775488,7550976,15101952
+"LLM LoRA (ffn, Vicuna-7B)",0,0,0,0
+"LLM LoRA (attn, Vicuna-7B)",0,0,0,0
+"LLM LoRA (all, Vicuna-7B)",0,0,0,0
+"Q-Former LoRA (ffn, Vicuna-7B)",0,0,0,0
+"Q-Former LoRA (self-attn, Vicuna-7B)",0,0,0,0
+"Q-Former LoRA (cross-attn, Vicuna-7B)",0,0,0,0
+"Q-Former LoRA (all, Vicuna-7B)",0,0,0,0
+"Q-Former and LLM LoRA (all, Vicuna-7B)",0,0,0,0
